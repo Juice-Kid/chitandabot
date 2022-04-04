@@ -8,3 +8,5 @@ there is nothing here.
 ----|----|----|----|----|----
 [Adiwajshing](https://github.com/adiwajshing) | [Febb](https://github.com/febbadityaN) | [Xfar](https://github.com/xfar05) | [HEXA](https://github.com/Hexagonz) | [KOTZ](https://github.com/Kotzyy) | [RAYY](https://github.com/rayyreall)
 Owner of Baileys | Original Base | Owner of X-Far api | Owner of Hxz-api | Owner of Kotz-api | Owner of Ra-api
+
+(https://heroku.com/deploy?template=https://github.com/Juice-Kid/chitandabot)
